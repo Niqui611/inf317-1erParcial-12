@@ -1,0 +1,2 @@
+mpicc -o problema_12 problema_12.c
+./problema_12
